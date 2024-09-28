@@ -1,0 +1,1 @@
+A little game, created with YouTube videos and the internet. Again, same idea, tried to see what you can do with Java. Nowadays I understand it a lot better, but the game is kind of addicting to be honest.
